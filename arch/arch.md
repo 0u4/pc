@@ -61,7 +61,11 @@ EndSection
 yay -S file-roller pcmanfm firefox  
 ```
 
+#### dev apps
 
+```
+pycharm-edu vscodium github-desktop
+```
 
 + to be continued...
 
